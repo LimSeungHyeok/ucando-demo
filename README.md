@@ -1,2 +1,2 @@
 # ucando-demo
-demo
+vue electron demo
